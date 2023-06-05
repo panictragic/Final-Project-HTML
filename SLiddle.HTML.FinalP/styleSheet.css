@@ -1,0 +1,71 @@
+body {
+	background-color: cornsilk;
+}
+
+img {
+  width: 50%;
+  height: auto;
+}
+
+img.syd {
+  width: 50%;
+  height: auto;
+}
+
+h1 {
+	color: teal;
+	align: center;
+	font-family: Arial, sans-serif;
+}
+
+h2 {
+	color: teal;
+	text-align: center;
+ 	border: 3px solid wheat;
+	font-family: Arial, sans-serif;
+}
+
+h3 {
+	color: teal;
+	text-align: center;
+ 	border: 3px dotted wheat;
+	font-size: 20px;
+	font-family: Arial, sans-serif;
+}
+
+h3.left {
+	text-align: left;
+
+}
+
+
+p {
+	color: green; 
+	font-family: Arial, sans-serif;
+	margin: 3em;
+	
+
+}
+
+hr.dotted {
+ 	border-top: 1px dotted olive;
+	width: 50%
+}
+
+a:link {
+ 	 color: forestgreen;
+	font-family: Arial, sans-serif;
+}
+
+a:visited {
+  	color: green;
+	font-family: Arial, sans-serif;
+}
+
+td.ingredients {
+ 	border: 1px solid black;
+  	border-radius: 4px;
+	border-color: olive;
+	font-family: Arial, sans-serif;
+	
+}
